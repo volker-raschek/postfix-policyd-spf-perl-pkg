@@ -1,7 +1,6 @@
 # postfix-policyd-spf-perl
 
 ![AUR version](https://img.shields.io/aur/version/postfix-policyd-spf-perl?label=AUR)
-[![Build Status](https://drone.cryptic.systems/api/badges/volker.raschek/postfix-policyd-spf-perl-pkg/status.svg)](https://drone.cryptic.systems/volker.raschek/postfix-policyd-spf-perl-pkg)
 ![AUR votes](https://img.shields.io/aur/votes/postfix-policyd-spf-perl)
 
 This repository contains build files to build the Arch Linux package `postfix-policyd-spf-perl`. Instead of building the
